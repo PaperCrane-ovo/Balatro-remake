@@ -1,0 +1,6 @@
+[submodule "godot"]
+	path = godot
+	url = https://github.com/PaperCrane-ovo/balatro-frontend
+[submodule "rust"]
+	path = rust
+	url = https://github.com/PaperCrane-ovo/balatro-backend
